@@ -1,0 +1,1 @@
+# slotsgem1.pl-git
